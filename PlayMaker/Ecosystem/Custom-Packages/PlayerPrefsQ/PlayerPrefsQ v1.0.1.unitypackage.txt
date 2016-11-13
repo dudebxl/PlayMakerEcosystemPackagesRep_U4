@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Addon",
+"Version":"1.0.1",
+"UnityMinimumVersion":"4.0",
+"PlayMakerMinimumVersion":"1.8.1",
+"unitypackage":"PlayMaker/Ecosystem/Custom-Packages/PlayerPrefsQ/PlayerPrefsQ v1.0.1.unitypackage",
+"pingAssetPath":"PlayMaker Custom Actions/PlayerPrefsQ/",
+"keywords":"PlayerPrefsQ, PlayerPrefs Q"
+}
